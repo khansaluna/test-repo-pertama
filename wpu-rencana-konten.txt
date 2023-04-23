@@ -2,6 +2,7 @@ rencana konten wpu
 - javascreipt
   ^ ES6
   ^ framework javascript
+- struktur data dasar
 - php framework
 - interview
 - vlogs
