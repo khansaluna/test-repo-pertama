@@ -2,7 +2,11 @@ rencana konten wpu
 - javascreipt
   ^ ES6
   ^ framework javascript
+    * vue
+    * react
 - struktur data dasar
 - php framework
+  ^ laravel
 - interview
 - vlogs
+- phyton
