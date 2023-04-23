@@ -2,8 +2,9 @@ rencana konten wpu
 - javascreipt
   ^ ES6
   ^ framework javascript
-    * vue
+    * angular
     * react
+    * vue
 - struktur data dasar
 - php framework
   ^ laravel
