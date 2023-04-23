@@ -4,7 +4,10 @@ rencana konten wpu
   ^ framework javascript
     * angular
     * react
+    * vue
+- struktur data dasar
 - php framework
   ^ laravel
 - interview
 - vlogs
+- phyton
